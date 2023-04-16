@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent">
-      <change afterPath="$PROJECT_DIR$/src/projeto/GameTUI.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PPM27.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PPM27.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Cells$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Cells.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Game$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Main$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Cells.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Cells.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/GameTUI.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/GameTUI.scala" afterDir="false" />
     </list>
     <list id="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" name="Changes by manel" comment="">
       <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/MyRandom.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/MyRandom.scala" afterDir="false" />
     </list>
-    <list id="7c6eaf61-d465-4648-8787-4d2144a50329" name="Changes by rodva" comment="" />
+    <list id="f629867d-2364-468b-9561-aead4db0f4a2" name="Changes by rodva" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,23 +32,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="79f81d5d-d1ef-4dab-b0d5-0681cf43d6e8" />
+        <option name="url" value="https://github.com/kiko67-1/PPM.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/src/projeto/Game.scala">
       <ranges>
-        <range start1="1" end1="1" start2="1" end2="3" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="2" end1="3" start2="4" end2="5" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="4" end1="5" start2="6" end2="6" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="6" end1="7" start2="7" end2="13" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="12" end1="12" start2="18" end2="19" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="13" end1="15" start2="20" end2="27" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="16" end1="40" start2="28" end2="39" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="41" end1="41" start2="40" end2="71" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
-        <range start1="42" end1="45" start2="72" end2="100" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
+        <range start1="7" end1="7" start2="7" end2="8" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="10" end1="11" start2="11" end2="12" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="18" end1="19" start2="19" end2="20" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="22" end1="22" start2="23" end2="24" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="27" end1="27" start2="29" end2="44" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="40" end1="40" start2="57" end2="102" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
+        <range start1="41" end1="44" start2="103" end2="118" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
       </ranges>
     </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -144,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681680826109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sent">
+      <created>1681686154035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681686154035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
