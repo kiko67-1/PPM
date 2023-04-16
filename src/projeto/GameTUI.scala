@@ -13,7 +13,8 @@ object GameTUI {
           print("Enter board size: ")
           val newSize = scala.io.StdIn.readInt()
           println(s"Board size set to $newSize")
-          Game.printBoard(Game.Board)
+          val game = new Game(newSize)
+          game.run()
           return
         case "2" => println("Exiting game...")
           return
