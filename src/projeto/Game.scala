@@ -1,43 +1,42 @@
 package projeto
-import scala.util.Random
-import projeto.Game._
 
-import scala.::
+import projeto.Game._
+import scala.util.Random
+import scala.collection.mutable.Stack
+
 case class Game(size: Int){
-  def newGame()= Game.newGame(size)
+  def play()= Game.play(board: Board, player: Cells.cell, row: Int, col: Int)
+  def emptyCells()= Game.emptyCells(board: Board,row: Int, col: Int)
+  def printBoard()= Game.printBoard(board: Board)
+  def hasContiguousLine()= Game.hasContiguousLine(board: Board, player: Cells.cell)
+  def undo()= Game.undo()
+
 
 }
 
 object Game {
 
+  val size=size
   type cells=Cells.cell
-  type board = List[List[Cells.cell]]
+  type Board = List[List[Cells.cell]]
+  val board: Board = List.fill(size)(List.fill(size)(Cells.Empty))
+  val currentPlayer = Cells.Red
+  val moveHistory = Stack[(Int, Int)]()
+  val player = Cells.Red
+  val row=size
+  val col=size
 
-
-/*def
-  def updateBoard(b: Game):board={ board match{
-    case Nil=>Nil
-    case (h1::t1)=> h1::showBoard(t1)
-        case Cells.Red => "X"
-        case Cells.Blue => "O"
-        case Cells.Empty => "."
-      }
-  }
-*/
-  def newGame(size: Int): board = {
-    val row1 = List.fill(size)("*").mkString("   ")
-    val row2 = List.fill(size)(". -").mkString(" ")
-    val row3 = List.fill(size)("\\ /").mkString(" ")
-    val row4 = List.fill(size)("* .").mkString(" ")
-    val row5 = List.fill(size)("- .").mkString(" ")
-    val rows = List(row1, row2, row3, row4, row5)
-
-    rows.map(row => row.split(" ").map {
-      case "." => Cells.Empty
-    }.toList)
-  }
-
-
+ def emptyCells(board:Board,row: Int = 0, col: Int = 0): List[(Int,Int)] = {
+   if(board.isEmpty){
+     List()
+   } else if (board.head.isEmpty) {
+     emptyCells(board.tail, row + 1, 0)
+   } else if (board.head.head == Cells.Empty) {
+     (row, col) :: emptyCells(board.head.tail :: board.tail, row, col + 1)
+   } else {
+     emptyCells(board.head.tail :: board.tail, row, col + 1)
+   }
+ }
   //tarefa 1
 
   //def randomMove(board: board, rand: Random):((Int, Int), Random)= {

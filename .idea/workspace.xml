@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent" />
+    <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent">
+      <change afterPath="$PROJECT_DIR$/src/projeto/GameTUI.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPM27.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PPM27.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Cells$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Cells.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Game$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/Cells.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Cells.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Main.scala" afterDir="false" />
+    </list>
+    <list id="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" name="Changes by manel" comment="">
+      <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/MyRandom.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/MyRandom.scala" afterDir="false" />
+    </list>
+    <list id="7c6eaf61-d465-4648-8787-4d2144a50329" name="Changes by rodva" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +33,30 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/projeto/Game.scala">
+      <ranges>
+        <range start1="1" end1="1" start2="1" end2="3" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="2" end1="3" start2="4" end2="5" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="4" end1="5" start2="6" end2="6" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="6" end1="7" start2="7" end2="13" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="12" end1="12" start2="18" end2="19" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="13" end1="15" start2="20" end2="27" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="16" end1="40" start2="28" end2="39" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="41" end1="41" start2="40" end2="71" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
+        <range start1="42" end1="45" start2="72" end2="100" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,32 +66,33 @@
   </component>
   <component name="ProjectId" id="2OT1nfKAYS3aztsDJcRuSepf24c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/orlan/IdeaProjects/untitled2/src/projeto",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/orlan/IdeaProjects/untitled2/src/projeto&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\orlan\IdeaProjects\untitled2\src\projeto" />
@@ -94,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681570139704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sent">
+      <created>1681680826109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681680826109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
