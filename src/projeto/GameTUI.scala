@@ -1,6 +1,9 @@
 package projeto
 
-object GameTUI {
+import projeto.Game
+
+object GameTUI extends App {
+
   def run(): Unit = {
     def showOptions(): Unit = {
       println("Game Options")
@@ -9,12 +12,11 @@ object GameTUI {
       print("Enter your choice: ")
       val choice = scala.io.StdIn.readLine()
       choice match {
-        case "1" => println("Starting game...")
+        case "1" => println("Starting game... \n")
           print("Enter board size: ")
           val newSize = scala.io.StdIn.readInt()
           println(s"Board size set to $newSize")
-          val game = new Game(newSize)
-          game.run()
+          Game.run(newSize)
           return
         case "2" => println("Exiting game...")
           return
