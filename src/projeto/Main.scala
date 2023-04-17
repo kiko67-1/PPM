@@ -3,7 +3,9 @@ package projeto
 object Main {
   def main(args: Array[String]): Unit = {
     val g = GameTUI
-    g.run()
+    val d=Game(5)
+    d.printBoard()
+    //g.run()
   }
 
 

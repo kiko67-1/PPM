@@ -11,8 +11,6 @@ case class Game(size: Int){
   def printBoard()= Game.printBoard(board: Board)
   //def hasContiguousLine()= Game.hasContiguousLine(board: Board, player: Cells.cell)
   def undo()= Game.undo()
-
-
 }
 
 object Game {

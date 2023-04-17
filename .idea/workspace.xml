@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent">
+    <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent2">
+      <change afterPath="$PROJECT_DIR$/src/projeto/Randoms.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/GameTUI.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/GameTUI.scala" afterDir="false" />
     </list>
     <list id="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" name="Changes by manel" comment="">
       <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/MyRandom.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/MyRandom.scala" afterDir="false" />
     </list>
-    <list id="f629867d-2364-468b-9561-aead4db0f4a2" name="Changes by rodva" comment="" />
+    <list id="8b28e02c-ee6c-4773-8d41-6acfe2b70fca" name="Changes by rodva" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +30,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Francisco Miguel &lt;orlandomiguel006@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -48,13 +54,9 @@
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/src/projeto/Game.scala">
       <ranges>
-        <range start1="7" end1="7" start2="7" end2="8" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="10" end1="11" start2="11" end2="12" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="18" end1="19" start2="19" end2="20" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="22" end1="22" start2="23" end2="24" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="27" end1="27" start2="29" end2="44" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="40" end1="40" start2="57" end2="102" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
-        <range start1="41" end1="44" start2="103" end2="118" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
+        <range start1="13" end1="15" start2="13" end2="13" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
+        <range start1="58" end1="58" start2="56" end2="78" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
+        <range start1="59" end1="62" start2="79" end2="115" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
       </ranges>
     </file>
   </component>
@@ -62,7 +64,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -154,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681686154035</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sent">
+      <created>1681688506430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681688506430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sent2">
+      <created>1681688517672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681688517672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sent" />
-    <option name="LAST_COMMIT_MESSAGE" value="sent" />
+    <MESSAGE value="sent2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sent2" />
   </component>
 </project>
