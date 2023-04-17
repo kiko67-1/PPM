@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent2">
-      <change afterPath="$PROJECT_DIR$/src/projeto/Randoms.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
     </list>
     <list id="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" name="Changes by manel" comment="">
       <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/MyRandom.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/MyRandom.scala" afterDir="false" />
     </list>
-    <list id="8b28e02c-ee6c-4773-8d41-6acfe2b70fca" name="Changes by rodva" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,15 +47,6 @@
         <option name="url" value="https://github.com/kiko67-1/PPM.git" />
       </UrlAndAccount>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/projeto/Game.scala">
-      <ranges>
-        <range start1="13" end1="15" start2="13" end2="13" changelist="82715b83-42c1-493d-88a4-ce305181d945" />
-        <range start1="58" end1="58" start2="56" end2="78" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
-        <range start1="59" end1="62" start2="79" end2="115" changelist="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -170,11 +158,29 @@
       <option name="project" value="LOCAL" />
       <updated>1681688517672</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sent2">
+      <created>1681689917641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681689917641</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sent" />
