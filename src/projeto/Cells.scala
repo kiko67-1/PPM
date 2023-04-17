@@ -7,7 +7,7 @@ object Cells extends Enumeration {
     cell == Blue
   }
   def red(cell: cell) = {
-    cell == Red
+    cell == Reda
   }
   def empty() = {
     Empty
