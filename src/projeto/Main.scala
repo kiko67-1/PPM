@@ -8,10 +8,6 @@ object Main {
     //g.run()
   }
 
-
-
-
-
 /*
     // Define uma pilha para armazenar os estados do jogo
     val gameStateStack = Stack[GameState]()

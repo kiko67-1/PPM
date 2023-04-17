@@ -20,7 +20,6 @@ object Game {
   type Board = List[List[Cells.cell]]
   val board: Board = List.fill(size)(List.fill(size)(Cells.Empty))
   val updatedBoard = board.updated(row, board(row).updated(col, player))
-  val currentPlayer = Cells.Red
   val moveHistory = Stack[(Int, Int)]()
   val player = Cells.Red
   val row=size
