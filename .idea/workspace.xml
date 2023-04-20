@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent2">
+    <list default="true" id="82715b83-42c1-493d-88a4-ce305181d945" name="Changes" comment="sent3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Game$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/Game$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/GameTUI$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/GameTUI$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/GameTUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/GameTUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PPM27/projeto/MyRandom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/Game.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Game.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/GameTUI.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/GameTUI.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projeto/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/MyRandom.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/MyRandom.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projeto/Randoms.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/projeto/Randoms.scala" afterDir="false" />
     </list>
     <list id="58cfe781-ddc2-4a7b-8920-85aa9d7699cd" name="Changes by manel" comment="Changes by manel" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +82,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/orlan/IdeaProjects/untitled2/src/projeto&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Francisco Miguel/Desktop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,7 +100,20 @@
       <recent name="C:\Users\orlan\IdeaProjects\untitled2\src\projeto" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="projeto.Game" />
+      <module name="PPM27" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="projeto.Main" />
       <module name="PPM27" />
@@ -106,6 +130,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681718292331</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="sent2">
+      <created>1681718541043</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681718541043</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,8 +235,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sent" />
-    <MESSAGE value="sent2" />
     <MESSAGE value="Changes by manel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes by manel" />
+    <MESSAGE value="sent2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sent2" />
   </component>
 </project>
