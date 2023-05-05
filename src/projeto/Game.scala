@@ -27,11 +27,11 @@ object Game extends App{
     }
   }
   //tarefa 1
-  def randomMove(board: Board, rand: MyRandom): ((Int, Int), MyRandom) = {
+   def randomMove(board: Board, rand: MyRandom): ((Int, Int), MyRandom) = {
     val emptyCells = getEmptyCells(board)
-    val index = rand.nextInt(board.size)
-    val (row, col) = emptyCells(index._1)
-    ((row,col),rand)
+    val (index, nextRand) = rand.nextInt
+    val cell = emptyCells(index % emptyCells.length)
+    ((cell._1, cell._2), nextRand.asInstanceOf[MyRandom])
   }
   def move(board: Board): Unit = {
     print("\nYour move: ")
