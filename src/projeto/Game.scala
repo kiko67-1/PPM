@@ -5,7 +5,6 @@ import scala.util.Random
 import scala.collection.immutable.::
 
 object Game extends App{
-
   type cells=Cells.cell
   type Board = List[List[Cells.cell]]
   val player = Cells.Blue
